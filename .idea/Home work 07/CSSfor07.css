@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700|Slabo+27px');
+
+body {
+}
+
+.T::first-letter {
+    font-size: 38px;
+    font-family: "lato";
+    color: #17171717;
+    position: absolute;
+}
+
+p {
+    font-family: "Slabo 27px";
+    font-size: 15px;
+    padding-bottom: 20px;
+    line-height: 1.5;
+
+}
+
+.heading {
+    font-size: 30px;
+}
+div {
+    -webkit-box-shadow: 0px 0px 60px 0px rgba(186, 180, 186, 0.75);
+    margin: 100px 75px;
+    height: 100%;
+    padding: 20px;
+}
+blockquote{
+    font-size: 18px;
+}
